@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Farsin;Full+Stack+Developer;Passionate+about+Problem+Solving" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=1F2328&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Farsin;Full+Stack+Developer;Passionate+about+Problem+Solving" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Farsin;Full+Stack+Developer;Passionate+about+Problem+Solving" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Farsin;Full+Stack+Developer;Passionate+about+Problem+Solving&v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1F2328&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Farsin;Full+Stack+Developer;Passionate+about+Problem+Solving&v=2" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Farsin;Full+Stack+Developer;Passionate+about+Problem+Solving&v=2" alt="Typing SVG" />
   </picture>
 </div>
 
